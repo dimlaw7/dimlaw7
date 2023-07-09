@@ -3,8 +3,6 @@
 I’m Oladimeji, Lawal.
 
 **A Frontend Engineer who creates responsive, accessible and functional Web Applications.**
-
-My stacks include JavaScript, React, PHP, Wordpress, CSS3, Bootstrap, Tailwind, and HTML5.
  
  ## Stacks I'm currently working with:
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
